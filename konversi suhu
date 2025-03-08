@@ -1,0 +1,6 @@
+fahrenheit = lambda c : (9/5)*c+32 
+reamur = lambda c : 0.8*c
+
+print(fahrenheit(100))
+print(reamur(80))
+print(fahrenheit(0))
